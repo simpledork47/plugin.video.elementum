@@ -496,7 +496,7 @@ msgid "Scraping trackers..."
 msgstr ""
 
 msgctxt "#30141"
-msgid "Please support Elementum development by visiting[CR]https://elementum.surge.sh/donate"
+msgid "Please support Elementum development by visiting[CR]https://elementum.surge.sh/donate/ or https://elementumorg.github.io/donate/"
 msgstr ""
 
 msgctxt "#30142"
