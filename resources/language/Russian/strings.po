@@ -2069,3 +2069,15 @@ msgstr "Ищем magnet ссылку"
 msgctxt "#30584"
 msgid "Remove multiple plays from history, leave 1"
 msgstr "Удалить несколько записей в истории, оставить 1"
+
+msgctxt "#30585"
+msgid "Enable library integration with Kodi"
+msgstr "Включить интеграцию с библиотекой Kodi"
+
+msgctxt "#30586"
+msgid "If disabled - Elementum will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
+msgstr "Если выключено - Elementum не будет получать/добавлять[CR]в библиотеку Kodi и не будет управлять[CR]просмотренным в Kodi."
+
+msgctxt "#30587"
+msgid "Show welcome message on start"
+msgstr "Показывать приветственное сообщение при старте"

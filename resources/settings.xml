@@ -61,6 +61,18 @@
     <category label="30326">
         <!-- General -->
         <setting label="30000" type="lsep" />
+        <setting id="library_enabled" type="bool" label="30585" default="true" />
+        <setting type="text" label="30586" enable="false" />
+
+        <!-- Maintenance -->
+        <setting label="30019" type="lsep" />
+        <setting type="action" label="30054" action="RunPlugin(plugin://plugin.video.elementum/library/update)" />
+        <setting id="library_update_delay" label="30059" type="slider" option="int" range="10,10,900" default="300" />
+        <setting id="library_update_frequency" label="30060" type="slider" option="int" range="0,1,24" default="6" />
+        <setting id="library_auto_scan" type="bool" label="30089" default="true" />
+
+        <!-- General -->
+        <setting label="30000" type="lsep" />
         <setting id="play_resume" label="30372" type="bool" default="true" />
         <setting id="store_resume" label="30533" type="bool" default="true" />
         <setting id="store_resume_action" type="enum" label="30534" lvalues="30414|30310|30413" default="1" />
@@ -74,13 +86,6 @@
             <setting type="action" label="30476" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_strm_language)" subsetting="true" />
         <setting id="library_nfo_movies" type="bool" label="30483" default="true" />
         <setting id="library_nfo_shows" type="bool" label="30484" default="true" />
-
-        <!-- Searching -->
-        <setting label="30019" type="lsep" />
-        <setting type="action" label="30054" action="RunPlugin(plugin://plugin.video.elementum/library/update)" />
-        <setting id="library_update_delay" label="30059" type="slider" option="int" range="10,10,900" default="300" />
-        <setting id="library_update_frequency" label="30060" type="slider" option="int" range="0,1,24" default="6" />
-        <setting id="library_auto_scan" type="bool" label="30089" default="true" />
     </category>
     <category label="30544">
         <setting type="text" label="30545" enable="false" />
@@ -102,6 +107,7 @@
     <category label="30033">
         <!-- Appearance -->
         <setting label="30033" type="lsep" />
+        <setting id="greeting_enabled" label="30587" type="bool" default="true" />
         <setting id="do_not_disturb" label="30093" type="bool" default="false" />
         <setting id="enable_overlay_status" type="bool" label="30022" default="true" />
           <setting id="overlay_status_offset" type="number" label="30030" default="150" subsetting="true" visible="eq(-1,true)" />

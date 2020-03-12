@@ -2080,3 +2080,15 @@ msgstr ""
 msgctxt "#30584"
 msgid "Remove multiple plays from history, leave 1"
 msgstr ""
+
+msgctxt "#30585"
+msgid "Enable library integration with Kodi"
+msgstr ""
+
+msgctxt "#30586"
+msgid "If disabled - Elementum will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
+msgstr ""
+
+msgctxt "#30587"
+msgid "Show welcome message on start"
+msgstr ""
