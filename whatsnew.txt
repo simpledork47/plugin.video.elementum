@@ -6,6 +6,10 @@
     - Do not expect any support, help and other things like that.
     - Source is open, so you can fork everything.
 
+[B][COLOR red]0.1.50[/COLOR][/B]
+    - Modified libtorrent settings.
+    - Fixes for background downloads and buffer window.
+
 [B][COLOR red]0.1.49[/COLOR][/B]
     - Added handling of background downloads (needs context.elementum version at least 0.0.3).
     - Added setting to disable Kodi library integration.
