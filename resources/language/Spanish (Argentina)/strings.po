@@ -2081,3 +2081,47 @@ msgstr "Si inactivo Elementum no obtendrá/insertará items[CR]en Colección Kod
 msgctxt "#30587"
 msgid "Show welcome message on start"
 msgstr "Mostrar bienvenida al arrancar"
+
+msgctxt "#30588"
+msgid "Pre-Play Buffering"
+msgstr ""
+
+msgctxt "#30589"
+msgid "Speed limiting"
+msgstr ""
+
+msgctxt "#30590"
+msgid "Torrents autoload on plugin startup"
+msgstr ""
+
+msgctxt "#30591"
+msgid "Connection limits"
+msgstr ""
+
+msgctxt "#30592"
+msgid "Seeding"
+msgstr ""
+
+msgctxt "#30593"
+msgid "Seed forever (unless disk space needed)"
+msgstr ""
+
+msgctxt "#30594"
+msgid "Network"
+msgstr ""
+
+msgctxt "#30595"
+msgid "Miscellaneous"
+msgstr ""
+
+msgctxt "#30596"
+msgid "Enable read/write caching for storage"
+msgstr ""
+
+msgctxt "#30597"
+msgid "Cache size (MB)"
+msgstr ""
+
+msgctxt "#30598"
+msgid "Enable caching if using File storage and have speed problems.[CR]Will use more memory, but can improve the speed."
+msgstr ""

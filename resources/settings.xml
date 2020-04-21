@@ -133,31 +133,39 @@
     </category>
     <category label="BitTorrent">
         <!-- BitTorrent -->
-        <setting label="BitTorrent" type="lsep" />
+        <setting label="30588" type="lsep" />
         <setting id="buffer_size" label="30578" type="number" default="20" />
         <setting id="end_buffer_size" label="30577" type="number" default="4" />
         <!-- <setting id="auto_adjust_buffer_size" label="30500" type="bool" default="true" /> -->
         <setting id="auto_kodi_buffer_size" label="30502" type="bool" default="true" />
         <setting id="buffer_timeout" label="30088" type="slider" option="int" range="10,5,600" default="60" />
+
+        <setting label="30589" type="lsep" />
         <setting id="max_upload_rate" label="30004" type="number" default="" />
         <setting id="max_download_rate" label="30005" type="number" default="" />
+        <setting id="limit_after_buffering" label="30025" type="bool" default="false" />
+        <!-- <setting id="disable_upload" label="30369" type="bool" default="false" /> -->
+
+        <setting label="30590" type="lsep" />
         <setting id="autoload_torrents" type="bool" label="30421" default="true" />
         <setting id="autoload_torrents_paused" type="bool" label="30515" default="true" />
-        <setting id="limit_after_buffering" label="30025" type="bool" default="false" />
+        
+        <setting label="30591" type="lsep" />
         <setting id="connections_limit" label="30027" type="number" default="" />
-
         <setting id="conntracker_limit_auto" label="30486" type="bool" default="true" />
         <setting id="conntracker_limit" label="30485" type="number" default="" enable="eq(-1,false)" />
-        <setting id="disable_upload" label="30369" type="bool" default="false" />
-        <setting id="session_save" label="30029" type="slider" option="int" range="5,5,60" default="15" />
+
+        <setting label="30592" type="lsep" />
+        <setting id="seed_forever" label="30593" type="bool" default="false" />
         <setting id="share_ratio_limit" label="30051" type="number" default="200" />
         <setting id="seed_time_ratio_limit" label="30052" type="number" default="700" />
         <setting id="seed_time_limit" label="30053" type="number" default="24" />
+
+        <setting label="30594" type="lsep" />
         <setting id="disable_dht" label="30050" type="bool" default="false" />
         <setting id="disable_tcp" label="30328" type="bool" default="false" />
         <setting id="disable_utp" label="30329" type="bool" default="false" />
         <setting id="disable_upnp" label="30063" type="bool" default="false" />
-        <setting id="encryption_policy" label="30064" type="enum" lvalues="30010|30065|30066" default="0" />
         <setting id="listen_autodetect_ip" label="30370" type="bool" default="true" />
         <setting id="listen_interfaces" label="30090" type="text" default="" enable="eq(-1,false)" />
         <setting type="action" label="30473" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_interface/listen)" subsetting="true" enable="eq(-2,false)" />
@@ -166,7 +174,15 @@
         <setting id="listen_autodetect_port" label="30371" type="bool" default="true" />
         <setting id="listen_port_min" label="30006" type="number" default="6891" enable="eq(-1,false)" />
         <setting id="listen_port_max" label="30007" type="number" default="6899" enable="eq(-2,false)" />
+
+        <setting label="30327" type="lsep" />
+        <setting type="text" label="30598" enable="false" />
         <setting id="tuned_storage" label="30086" type="bool" default="false" />
+        <setting id="disk_cache_size" label="30597" type="number" enable="eq(-1,true)" default="12" />
+
+        <setting label="30595" type="lsep" />
+        <setting id="session_save" label="30029" type="slider" option="int" range="5,5,60" default="15" />
+        <setting id="encryption_policy" label="30064" type="enum" lvalues="30010|30065|30066" default="0" />
         <setting id="spoof_user_agent" label="30074" type="enum" lvalues="30065|30075|30076|30077|30078|30079|30080|30081|30082|30083|30084|30085" />
         <setting id="use_libtorrent_config" label="30503" type="bool" default="true" />
         <setting type="text" label="30504" enable="false" />

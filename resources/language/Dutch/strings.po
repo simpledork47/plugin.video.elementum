@@ -1890,6 +1890,242 @@ msgctxt "#30539"
 msgid "Store N torrents in history"
 msgstr ""
 
+msgctxt "#30540"
+msgid "Subtitles"
+msgstr ""
+
+msgctxt "#30541"
+msgid "Automatic Subtitles Search"
+msgstr ""
+
+msgctxt "#30542"
+msgid "Disabled if subtitles available in player"
+msgstr ""
+
+msgctxt "#30543"
+msgid "Subtitles included in torrent"
+msgstr ""
+
+msgctxt "#30544"
+msgid "Automatic Scrape"
+msgstr ""
+
+msgctxt "#30545"
+msgid "Automatic scraping allows to scrape connected providers[CR]to find new movies, if there are results,"
+msgstr ""
+
+msgctxt "#30546"
+msgid "Strategy"
+msgstr ""
+
+msgctxt "#30547"
+msgid "Find in each provider"
+msgstr ""
+
+msgctxt "#30548"
+msgid "Find in overall"
+msgstr ""
+
+msgctxt "#30549"
+msgid "Number of results to find"
+msgstr ""
+
+msgctxt "#30550"
+msgid "What to search"
+msgstr ""
+
+msgctxt "#30551"
+msgid "How to search"
+msgstr ""
+
+msgctxt "#30552"
+msgid "Search each N hours"
+msgstr ""
+
+msgctxt "#30553"
+msgid "Find 4K resolution"
+msgstr ""
+
+msgctxt "#30554"
+msgid "Find 1080p resolution"
+msgstr ""
+
+msgctxt "#30555"
+msgid "and movie passes checks for number of results[CR]movie can be added to the library."
+msgstr ""
+
+msgctxt "#30556"
+msgid "Add to the library"
+msgstr ""
+
+msgctxt "#30557"
+msgid "Number of popular movies to search"
+msgstr ""
+
+msgctxt "#30558"
+msgid "Latest available movies"
+msgstr ""
+
+msgctxt "#30559"
+msgid "Skip searching for installed providers"
+msgstr ""
+
+msgctxt "#30560"
+msgid "Files: %s"
+msgstr ""
+
+msgctxt "#30561"
+msgid "Interval between requests, seconds"
+msgstr ""
+
+msgctxt "#30562"
+msgid "Open directory with Kodi file browser"
+msgstr ""
+
+msgctxt "#30563"
+msgid "Synchronize frequency of Trakt (minutes)"
+msgstr ""
+
+msgctxt "#30564"
+msgid "Sync hidden items"
+msgstr ""
+
+msgctxt "#30565"
+msgid "Sync playback progress into Kodi library"
+msgstr ""
+
+msgctxt "#30566"
+msgid "Lists"
+msgstr ""
+
+msgctxt "#30567"
+msgid "Show \"All seasons\" in shows"
+msgstr ""
+
+msgctxt "#30568"
+msgid "Seasons order"
+msgstr ""
+
+msgctxt "#30569"
+msgid "Ascending"
+msgstr ""
+
+msgctxt "#30570"
+msgid "Descending"
+msgstr ""
+
+msgctxt "#30571"
+msgid "* All seasons"
+msgstr ""
+
+msgctxt "#30572"
+msgid "Log response body"
+msgstr ""
+
+msgctxt "#30573"
+msgid "Select file to play"
+msgstr ""
+
+msgctxt "#30574"
+msgid "Automatically answer Yes after timeout"
+msgstr ""
+
+msgctxt "#30575"
+msgid "Timeout, seconds"
+msgstr ""
+
+msgctxt "#30576"
+msgid "Trakt authentication needs to be updated!"
+msgstr ""
+
+msgctxt "#30577"
+msgid "End of file Buffer size (MB)"
+msgstr ""
+
+msgctxt "#30578"
+msgid "Beginning of file Buffer size (MB)"
+msgstr ""
+
+msgctxt "#30579"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30580"
+msgid "Custom Trakt API Client ID"
+msgstr ""
+
+msgctxt "#30581"
+msgid "Custom Trakt API Client Secret"
+msgstr ""
+
+msgctxt "#30582"
+msgid "Settings for %s provider"
+msgstr ""
+
+msgctxt "#30583"
+msgid "Resolving magnet link"
+msgstr ""
+
+msgctxt "#30584"
+msgid "Remove multiple plays from history, leave 1"
+msgstr ""
+
+msgctxt "#30585"
+msgid "Enable library integration with Kodi"
+msgstr ""
+
+msgctxt "#30586"
+msgid "If disabled - Elementum will not get/insert items[CR]to Kodi library and skip[CR]watched management with Kodi."
+msgstr ""
+
+msgctxt "#30587"
+msgid "Show welcome message on start"
+msgstr ""
+
+msgctxt "#30588"
+msgid "Pre-Play Buffering"
+msgstr ""
+
+msgctxt "#30589"
+msgid "Speed limiting"
+msgstr ""
+
+msgctxt "#30590"
+msgid "Torrents autoload on plugin startup"
+msgstr ""
+
+msgctxt "#30591"
+msgid "Connection limits"
+msgstr ""
+
+msgctxt "#30592"
+msgid "Seeding"
+msgstr ""
+
+msgctxt "#30593"
+msgid "Seed forever (unless disk space needed)"
+msgstr ""
+
+msgctxt "#30594"
+msgid "Network"
+msgstr ""
+
+msgctxt "#30595"
+msgid "Miscellaneous"
+msgstr ""
+
+msgctxt "#30596"
+msgid "Enable read/write caching for storage"
+msgstr ""
+
+msgctxt "#30597"
+msgid "Cache size (MB)"
+msgstr ""
+
+msgctxt "#30598"
+msgid "Enable caching if using File storage and have speed problems.[CR]Will use more memory, but can improve the speed."
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
 #~ msgstr "Download pad (Geen FAT32)"
