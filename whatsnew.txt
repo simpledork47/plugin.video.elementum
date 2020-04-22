@@ -5,6 +5,15 @@
 [B][COLOR red]Development of *plugin.video.elementum* is stopped! [/COLOR][/B]
     - Do not expect any support, help and other things like that.
     - Source is open, so you can fork everything.
+    - Some bug fixes or updates can come, to keep things working and have the latest versions.
+
+[B][COLOR red]0.1.51[/COLOR][/B]
+    - Reorganized Elementum settings to make easier to understand them.
+    - Added option to totally disable Trakt/Kodi synchronization.
+    - Added option to disable Trakt/Kodi sync when Kodi is playing anything.
+    - Added option to define disk cache buffer (useful for Android/external drive users with File storage).
+    - Added option to seed forever (will not stop seeding until manually selected).
+    - Fixed issue with selecting file for playback in active torrent.
 
 [B][COLOR red]0.1.50[/COLOR][/B]
     - Modified libtorrent settings.
