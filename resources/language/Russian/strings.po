@@ -2126,3 +2126,15 @@ msgstr "Размер кеша (МБ)"
 msgctxt "#30598"
 msgid "Enable caching if using File storage and have speed problems.[CR]Will use more memory, but can improve the speed."
 msgstr "Включайте кеширование если используете файлы[CR]и видите плохую скорость.Будет больше использоваться память,[CR]но может улучшить скорость."
+
+msgctxt "#30599"
+msgid "Enable Kodi library synchronization"
+msgstr "Включить синхронизацию библиотеки Kodi"
+
+msgctxt "#30600"
+msgid "Enable Trakt synchronization"
+msgstr "Включить синхронизацию Trakt"
+
+msgctxt "#30601"
+msgid "Enable synchronization while playback"
+msgstr "Включить синхронизацию во время проигрывания"

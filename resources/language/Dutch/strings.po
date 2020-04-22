@@ -2126,6 +2126,18 @@ msgctxt "#30598"
 msgid "Enable caching if using File storage and have speed problems.[CR]Will use more memory, but can improve the speed."
 msgstr ""
 
+msgctxt "#30599"
+msgid "Enable Kodi library synchronization"
+msgstr ""
+
+msgctxt "#30600"
+msgid "Enable Trakt synchronization"
+msgstr ""
+
+msgctxt "#30601"
+msgid "Enable synchronization while playback"
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
 #~ msgstr "Download pad (Geen FAT32)"
