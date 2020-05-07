@@ -2136,3 +2136,15 @@ msgstr ""
 msgctxt "#30601"
 msgid "Enable synchronization while playback"
 msgstr ""
+
+msgctxt "#30602"
+msgid "Retry plugin requests after timeout (seconds)"
+msgstr ""
+
+msgctxt "#30603"
+msgid "Addon Startup"
+msgstr ""
+
+msgctxt "#30604"
+msgid "Clean all history"
+msgstr ""

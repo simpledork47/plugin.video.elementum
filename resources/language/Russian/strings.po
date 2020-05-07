@@ -2138,3 +2138,15 @@ msgstr "Включить синхронизацию Trakt"
 msgctxt "#30601"
 msgid "Enable synchronization while playback"
 msgstr "Включить синхронизацию во время проигрывания"
+
+msgctxt "#30602"
+msgid "Retry plugin requests after timeout (seconds)"
+msgstr "Повторный запрос к дополнению после таймаута (секунды)"
+
+msgctxt "#30603"
+msgid "Addon Startup"
+msgstr "Старт Дополнения"
+
+msgctxt "#30604"
+msgid "Clean all history"
+msgstr "Очистить всю историю"

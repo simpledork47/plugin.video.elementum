@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
     <category label="30000">
+        <!-- Startup -->
+        <setting label="30603" type="lsep" />
+        <setting id="greeting_enabled" label="30587" type="bool" default="true" />
+        <setting id="preload_timeout" label="30602" type="slider" option="int" range="1,1,120" default="1" />
+
         <!-- Storage -->
         <setting label="30327" type="lsep" />
         <setting id="download_storage" type="enum" label="30315" lvalues="30316|30317" default="1" />
@@ -109,7 +114,6 @@
     <category label="30033">
         <!-- Appearance -->
         <setting label="30033" type="lsep" />
-        <setting id="greeting_enabled" label="30587" type="bool" default="true" />
         <setting id="do_not_disturb" label="30093" type="bool" default="false" />
         <setting id="enable_overlay_status" type="bool" label="30022" default="true" />
           <setting id="overlay_status_offset" type="number" label="30030" default="150" subsetting="true" enable="eq(-1,true)" />
