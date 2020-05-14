@@ -7,6 +7,16 @@
     - Source is open, so you can fork everything.
     - Some bug fixes or updates can come, to keep things working and have the latest versions.
 
+[B][COLOR red]0.1.52[/COLOR][/B]
+    - Added context menu item for cleaning up search queries.
+    - Increased TMDB rate limits to allow more queries.
+    - Added option for using earliest available year for searching. Added years per country for searching through providers.
+    - Added local caching for downloaded torrent files.
+    - Small changes to next episode autostart.
+    - Fixed issue with crashing because of virtual memory calculation error.
+    - Modified episode matching regex.
+    - Added oindex parameter to /play to start with specific file index.
+
 [B][COLOR red]0.1.51[/COLOR][/B]
     - Reorganized Elementum settings to make easier to understand them.
     - Added option to totally disable Trakt/Kodi synchronization.
