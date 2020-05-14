@@ -2150,3 +2150,19 @@ msgstr "Старт Дополнения"
 msgctxt "#30604"
 msgid "Clean all history"
 msgstr "Очистить всю историю"
+
+msgctxt "#30605"
+msgid "Cache downloaded torrent files after searches"
+msgstr "Кешировать скачанные торрент файлы после поисков"
+
+msgctxt "#30606"
+msgid "Show watched state for torrent's files"
+msgstr "Показывать статус просмотренного для файлов торрента"
+
+msgctxt "#30607"
+msgid "Use earliest release date as basic for searching"
+msgstr "Использовать раннюю дату выпуска как базовую для поиска"
+
+msgctxt "#30608"
+msgid "Match found in your active torrents, play it?[CR]%s"
+msgstr "Найдено совпадение в ваших активных торрентах, воспроизвести его?[CR]%s"

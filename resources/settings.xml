@@ -62,6 +62,8 @@
         <setting id="force_link_type" type="bool" label="30324" default="false" />
         <setting id="smart_episode_match" type="bool" label="30333" default="true" />
         <setting id="smart_episode_start" type="bool" label="30525" default="true" />
+        <setting id="use_cache_torrents" type="bool" label="30605" default="true" />
+        <setting id="show_files_watched" type="bool" label="30606" default="true" />
     </category>
     <category label="30326">
         <!-- General -->
@@ -203,6 +205,7 @@
         <setting label="30478" type="lsep" />
         <setting id="use_original_title" type="bool" label="30038" default="false" />
         <setting id="use_anime_en_title" type="bool" label="30526" default="true" />
+        <setting id="use_lowest_release_date" type="bool" label="30607" default="true" />
 
         <setting label="30522" type="lsep" />
         <setting id="min_candidate_size" label="30523" type="slider" option="int" range="0,1,1000" default="100" />

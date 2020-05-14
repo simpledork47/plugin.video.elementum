@@ -2148,3 +2148,19 @@ msgstr ""
 msgctxt "#30604"
 msgid "Clean all history"
 msgstr ""
+
+msgctxt "#30605"
+msgid "Cache downloaded torrent files after searches"
+msgstr ""
+
+msgctxt "#30606"
+msgid "Show watched state for torrent's files"
+msgstr ""
+
+msgctxt "#30607"
+msgid "Use earliest release date as basic for searching"
+msgstr ""
+
+msgctxt "#30608"
+msgid "Match found in your active torrents, play it?[CR]%s"
+msgstr ""
