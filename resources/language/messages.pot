@@ -2189,3 +2189,6 @@ msgctxt "#30611"
 msgid "Application platform type"
 msgstr ""
 
+msgctxt "#30612"
+msgid "Select file to download"
+msgstr ""
