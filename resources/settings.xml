@@ -59,13 +59,17 @@
         <setting id="autoyes_enabled" label="30574" type="bool" default="true" enable="eq(-1,false)" />
         <setting id="autoyes_timeout" label="30575" type="slider" option="int" range="1,1,120" default="5" enable="eq(-2,false)" />
 
-        <setting id="choose_stream_auto" type="bool" label="30023" default="false" />
         <setting id="force_link_type" type="bool" label="30324" default="false" />
         <setting id="smart_episode_match" type="bool" label="30333" default="true" />
         <setting id="smart_episode_start" type="bool" label="30525" default="true" />
         <setting id="smart_episode_choose" type="bool" label="30609" default="true" />
         <setting id="use_cache_torrents" type="bool" label="30605" default="true" />
         <setting id="show_files_watched" type="bool" label="30606" default="true" />
+
+        <setting label="30023" type="lsep" />
+        <setting id="choose_stream_auto_movie" type="bool" label="30613" default="false" />
+        <setting id="choose_stream_auto_show" type="bool" label="30614" default="false" />
+        <setting id="choose_stream_auto_search" type="bool" label="30615" default="false" />
     </category>
     <category label="30326">
         <!-- General -->

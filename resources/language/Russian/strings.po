@@ -2182,3 +2182,15 @@ msgstr "Тип платформы для приложения"
 msgctxt "#30612"
 msgid "Select file to download"
 msgstr "Выбрать файл для скачивания"
+
+msgctxt "#30613"
+msgid "... for movie"
+msgstr "... для фильмов"
+
+msgctxt "#30614"
+msgid "... for tv show"
+msgstr "... для сериалов"
+
+msgctxt "#30615"
+msgid "... for search"
+msgstr "... для поиска"

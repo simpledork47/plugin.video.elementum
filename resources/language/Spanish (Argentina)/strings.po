@@ -2177,3 +2177,19 @@ msgstr "Tiempo límite resolución magnets (s)"
 msgctxt "#30611"
 msgid "Application platform type"
 msgstr "Tipo plataforma aplicación"
+
+msgctxt "#30612"
+msgid "Select file to download"
+msgstr ""
+
+msgctxt "#30613"
+msgid "... for movie"
+msgstr ""
+
+msgctxt "#30614"
+msgid "... for tv show"
+msgstr ""
+
+msgctxt "#30615"
+msgid "... for search"
+msgstr ""

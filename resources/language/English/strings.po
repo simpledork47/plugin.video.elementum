@@ -2181,3 +2181,14 @@ msgctxt "#30612"
 msgid "Select file to download"
 msgstr ""
 
+msgctxt "#30613"
+msgid "... for movie"
+msgstr ""
+
+msgctxt "#30614"
+msgid "... for tv show"
+msgstr ""
+
+msgctxt "#30615"
+msgid "... for search"
+msgstr ""

@@ -2177,6 +2177,22 @@ msgctxt "#30611"
 msgid "Application platform type"
 msgstr ""
 
+msgctxt "#30612"
+msgid "Select file to download"
+msgstr ""
+
+msgctxt "#30613"
+msgid "... for movie"
+msgstr ""
+
+msgctxt "#30614"
+msgid "... for tv show"
+msgstr ""
+
+msgctxt "#30615"
+msgid "... for search"
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
 #~ msgstr "Pasta de transferências (não FAT32)"
