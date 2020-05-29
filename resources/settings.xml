@@ -188,7 +188,7 @@
 
         <setting label="30327" type="lsep" />
         <setting type="text" label="30598" enable="false" />
-        <setting id="tuned_storage" label="30086" type="bool" default="false" />
+        <setting id="tuned_storage" label="30086" type="bool" default="true" />
         <setting id="disk_cache_size" label="30597" type="number" enable="eq(-1,true)" default="12" />
 
         <setting label="30595" type="lsep" />
