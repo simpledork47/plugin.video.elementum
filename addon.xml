@@ -2,7 +2,6 @@
 <addon id="plugin.video.elementum" name="Elementum" version="0.1.55" provider-name="elgatito">
     <requires>
         <import addon="xbmc.addon" version="16.0.0" />
-        <import addon="xbmc.python" version="2.24.0" />
         <import addon="repository.elementum" optional="true" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="navigation.py">
