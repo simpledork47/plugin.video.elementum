@@ -7,6 +7,9 @@
     - Source is open, so you can fork everything.
     - Some bug fixes or updates can come, to keep things working and have the latest versions.
 
+[B][COLOR red]0.1.57[/COLOR][/B]
+    - Added functionality to allow using both memory and file storages. Running 'Download' from context menu will download with file storage.
+
 [B][COLOR red]0.1.56[/COLOR][/B]
     - Some changes to allow running on Kodi 16 with old python and Kodi 19 with Python 3.
     - Changed logic to start playback even if there is a busy window (can cause Kodi restarts, please report if found!).
