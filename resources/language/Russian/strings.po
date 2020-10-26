@@ -318,7 +318,7 @@ msgstr "Подменить user agent (крайне не рекомендует�
 
 msgctxt "#30075"
 msgid "Default advisable (acceptable)"
-msgstr "По-умолчанию рекоммендуемое"
+msgstr "По-умолчанию рекомендуемое"
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
@@ -1424,7 +1424,7 @@ msgstr "Популярные списки"
 
 msgctxt "#30423"
 msgid "Recommendations"
-msgstr "Рекоммендации"
+msgstr "Рекомендации"
 
 msgctxt "#30424"
 msgid "Progress"
@@ -2036,7 +2036,7 @@ msgstr "Таймаут, секунд"
 
 msgctxt "#30576"
 msgid "Trakt authentication needs to be updated!"
-msgstr "Авторизация Trakt нужно обновить!"
+msgstr "Авторизацию пользователя Trakt нужно обновить!"
 
 msgctxt "#30577"
 msgid "End of file Buffer size (MB)"
