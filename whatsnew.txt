@@ -7,6 +7,12 @@
     - Source is open, so you can fork everything.
     - Some bug fixes or updates can come, to keep things working and have the latest versions.
 
+[B][COLOR red]0.1.60[/COLOR][/B]
+    - Please, visit https://github.com/elgatito/plugin.video.elementum/issues/636 for information about Trakt in Elementum.
+    - Added a check for Locked Trakt account, will show once a day, see the link above.
+    - Removed custom Trakt ClientID settings, see the link above.
+    - Removed feature to remove duplicates in Trakt history.
+
 [B][COLOR red]0.1.59[/COLOR][/B]
     - Updated Python3 compatibility for Kodi19. Thanks to @vlmaksime.
     - Changed default Trakt client id.
