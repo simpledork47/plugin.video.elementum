@@ -2192,3 +2192,11 @@ msgstr ""
 msgctxt "#30615"
 msgid "... for search"
 msgstr ""
+
+msgctxt "#30616"
+msgid "Elementum | Trakt Account"
+msgstr ""
+
+msgctxt "#30617"
+msgid "Your account is locked for API on Trakt.tv[CR]Please, contact Trakt Support at https://support.trakt.tv ."
+msgstr ""

@@ -2194,3 +2194,11 @@ msgstr "... для сериалов"
 msgctxt "#30615"
 msgid "... for search"
 msgstr "... для поиска"
+
+msgctxt "#30616"
+msgid "Elementum | Trakt Account"
+msgstr "Elementum | Аккаунт Trakt"
+
+msgctxt "#30617"
+msgid "Your account is locked for API on Trakt.tv[CR]Please, contact Trakt Support at https://support.trakt.tv ."
+msgstr "Ваш аккаунт заблокирован для API на Trakt.tv[CR]Пожалуйста, свяжитесь с поддержкой Trakt - https://support.trakt.tv ."
