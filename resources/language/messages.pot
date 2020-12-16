@@ -2216,3 +2216,7 @@ msgstr ""
 msgctxt "#30618"
 msgid "%s is downloaded"
 msgstr ""
+
+msgctxt "#30619"
+msgid "Return to [B]%s[/B]"
+msgstr ""

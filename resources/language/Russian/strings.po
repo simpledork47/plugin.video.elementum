@@ -2206,3 +2206,7 @@ msgstr "Ваш аккаунт заблокирован для API на Trakt.tv[
 msgctxt "#30618"
 msgid "%s is downloaded"
 msgstr "%s скачан"
+
+msgctxt "#30619"
+msgid "Return to [B]%s[/B]"
+msgstr "Вернуться к [B]%s[/B]"
