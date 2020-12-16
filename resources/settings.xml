@@ -188,7 +188,7 @@
         <setting id="listen_autodetect_port" label="30371" type="bool" default="true" />
         <setting id="listen_port_min" label="30006" type="number" default="6891" enable="eq(-1,false)" />
         <setting id="listen_port_max" label="30007" type="number" default="6899" enable="eq(-2,false)" />
-        <setting id="magnet_resolve_timeout" label="30610" type="slider" option="int" range="1,1,600" default="20" />
+        <setting id="magnet_resolve_timeout" label="30610" type="slider" option="int" range="1,1,600" default="40" />
 
         <setting label="30327" type="lsep" />
         <setting type="text" label="30598" enable="false" />
