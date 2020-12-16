@@ -2200,3 +2200,7 @@ msgstr ""
 msgctxt "#30617"
 msgid "Your account is locked for API on Trakt.tv[CR]Please, contact Trakt Support at https://support.trakt.tv ."
 msgstr ""
+
+msgctxt "#30618"
+msgid "%s is downloaded"
+msgstr ""
