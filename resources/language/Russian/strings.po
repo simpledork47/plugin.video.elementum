@@ -2210,3 +2210,7 @@ msgstr "%s скачан"
 msgctxt "#30619"
 msgid "Return to [B]%s[/B]"
 msgstr "Вернуться к [B]%s[/B]"
+
+msgctxt "#30620"
+msgid "Restart Elementum addon"
+msgstr "Перезапустить дополнение Elementum"

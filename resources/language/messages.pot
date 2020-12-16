@@ -2220,3 +2220,7 @@ msgstr ""
 msgctxt "#30619"
 msgid "Return to [B]%s[/B]"
 msgstr ""
+
+msgctxt "#30620"
+msgid "Restart Elementum addon"
+msgstr ""
