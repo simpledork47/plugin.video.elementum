@@ -2212,3 +2212,51 @@ msgstr ""
 msgctxt "#30620"
 msgid "Restart Elementum addon"
 msgstr ""
+
+msgctxt "#30621"
+msgid "Queued"
+msgstr ""
+
+msgctxt "#30622"
+msgid "Checking"
+msgstr ""
+
+msgctxt "#30623"
+msgid "Finding"
+msgstr ""
+
+msgctxt "#30624"
+msgid "Downloading"
+msgstr ""
+
+msgctxt "#30625"
+msgid "Finished"
+msgstr ""
+
+msgctxt "#30626"
+msgid "Seeding"
+msgstr ""
+
+msgctxt "#30627"
+msgid "Allocating"
+msgstr ""
+
+msgctxt "#30628"
+msgid "Stalled"
+msgstr ""
+
+msgctxt "#30629"
+msgid "Paused"
+msgstr ""
+
+msgctxt "#30630"
+msgid "Buffering"
+msgstr ""
+
+msgctxt "#30631"
+msgid "Playing"
+msgstr ""
+
+msgctxt "#30632"
+msgid "Yes (%s seconds)"
+msgstr ""
