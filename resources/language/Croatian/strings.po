@@ -2289,6 +2289,10 @@ msgctxt "#30638"
 msgid "Debug"
 msgstr ""
 
+msgctxt "#30639"
+msgid "Show Specials in season listings"
+msgstr ""
+
 #~ msgctxt "#30398"
 #~ msgid "Debug information"
 #~ msgstr "Informacije otklanjanja greške"

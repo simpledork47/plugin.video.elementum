@@ -2286,6 +2286,10 @@ msgctxt "#30638"
 msgid "Debug"
 msgstr ""
 
+msgctxt "#30639"
+msgid "Show Specials in season listings"
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
 #~ msgstr "Шлях до завантажень (окрім FAT32)"

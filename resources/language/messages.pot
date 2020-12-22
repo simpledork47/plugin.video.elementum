@@ -2296,3 +2296,7 @@ msgstr ""
 msgctxt "#30638"
 msgid "Debug"
 msgstr ""
+
+msgctxt "#30639"
+msgid "Show Specials in season listings"
+msgstr ""
