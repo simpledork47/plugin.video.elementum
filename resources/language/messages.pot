@@ -2272,3 +2272,7 @@ msgstr ""
 msgctxt "#30632"
 msgid "Yes (%s seconds)"
 msgstr ""
+
+msgctxt "#30633"
+msgid "No (%s seconds)"
+msgstr ""

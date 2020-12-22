@@ -2262,3 +2262,7 @@ msgstr "Проигрывается"
 msgctxt "#30632"
 msgid "Yes (%s seconds)"
 msgstr "Да (%s секунд)"
+
+msgctxt "#30633"
+msgid "No (%s seconds)"
+msgstr "Нет (%s секунд)"
