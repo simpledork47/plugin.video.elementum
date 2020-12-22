@@ -2276,3 +2276,23 @@ msgstr ""
 msgctxt "#30633"
 msgid "No (%s seconds)"
 msgstr ""
+
+msgctxt "#30634"
+msgid "Log level"
+msgstr ""
+
+msgctxt "#30635"
+msgid "None"
+msgstr ""
+
+msgctxt "#30636"
+msgid "Error"
+msgstr ""
+
+msgctxt "#30637"
+msgid "Info"
+msgstr ""
+
+msgctxt "#30638"
+msgid "Debug"
+msgstr ""

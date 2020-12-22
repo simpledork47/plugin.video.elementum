@@ -371,7 +371,7 @@
         <setting label="30455" type="lsep" />
         <setting type="action" label="30453" action="RunPlugin(plugin://plugin.video.elementum/cmd/paste/bundle)" />
         <setting type="action" label="30456" action="RunPlugin(plugin://plugin.video.elementum/cmd/paste/all)" />
-        <setting id="logger_silent" type="bool" label="30407" default="false" />
+        <setting id="log_level" type="enum" label="30634" lvalues="30635|30636|30637|30638" default="2" />
 
         <!-- TMDB -->
         <setting label="30039" type="lsep" />
