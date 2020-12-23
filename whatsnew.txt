@@ -7,7 +7,7 @@
     - Source is open, so you can fork everything.
     - Some bug fixes or updates can come, to keep things working and have the latest versions.    
 
-[B][COLOR red]0.1.63[/COLOR][/B]
+[B][COLOR red]0.1.63-64[/COLOR][/B]
     - Added initial integration with UpNext addon to notify about next episode/file.
     - Reorganized Arts collection from Fanart.tv, to make it faster and properly selected.
     - Added photos for Cast members.
@@ -24,6 +24,7 @@
     - Fixed issue with broken language detection (for example, with Portuguese Bralizian).
     - Added settings for controlling Log level from addon settings.
     - Fixed issue with showing total size of torrent on /web page, instead of selected files size.
+    - Added fallback checkers for names/overviews for Movie/Show/Season/Episode (If selected language not available, fallback to english, then to original language to avoid empty values).
 
 [B][COLOR red]0.1.60-62[/COLOR][/B]
     - Please, visit https://github.com/elgatito/plugin.video.elementum/issues/636 for information about Trakt in Elementum.
