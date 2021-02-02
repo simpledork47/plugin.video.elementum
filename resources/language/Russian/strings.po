@@ -2294,3 +2294,23 @@ msgstr "Показывать Specials в списках сезонов"
 msgctxt "#30640"
 msgid "Bitrate"
 msgstr "Битрейт"
+
+msgctxt "#30641"
+msgid "Playback"
+msgstr "Проигрывание"
+
+msgctxt "#30642"
+msgid "Force Resume options"
+msgstr "Принудительное продолжение просмотра"
+
+msgctxt "#30643"
+msgid "by Kodi"
+msgstr "с помощью Kodi"
+
+msgctxt "#30644"
+msgid "by Elementum - Ask"
+msgstr "с помощью Elementum - Спрашивать"
+
+msgctxt "#30645"
+msgid "by Elementum - Force"
+msgstr "с помощью Elementum - Принудительно"

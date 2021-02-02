@@ -8,6 +8,11 @@
         <setting id="binary_platform" label="30611" type="select" values="Auto|android_arm|android_arm64|android_x86|android_x64|linux_armv6|linux_armv7|linux_arm64|linux_x86|linux_x64|darwin_x86|darwin_x64|windows_x86|windows_x64" default="Auto" />
         <setting type="action" label="30620" option="close" action="RunPlugin(plugin://plugin.video.elementum/restart/)" />
 
+        <!-- Playback -->
+        <setting label="30641" type="lsep" />
+        <setting id="play_resume_action" type="enum" label="30642" lvalues="30643|30644|30645" default="1" />
+        <setting id="play_resume_back" label="30516" type="slider" option="int" range="0,1,120" default="0" />
+
         <!-- Storage -->
         <setting label="30327" type="lsep" />
         <setting id="download_storage" type="enum" label="30315" lvalues="30316|30317" default="1" />
@@ -89,10 +94,6 @@
 
         <!-- General -->
         <setting label="30000" type="lsep" />
-        <setting id="play_resume" label="30372" type="bool" default="true" />
-        <setting id="store_resume" label="30533" type="bool" default="true" />
-        <setting id="store_resume_action" type="enum" label="30534" lvalues="30414|30310|30413" default="1" />
-        <setting id="play_resume_back" label="30516" type="slider" option="int" range="0,1,120" default="0" />
         <setting id="add_specials" type="bool" label="30055" default="false" />
         <setting id="unaired_seasons" type="bool" label="30284" default="false" />
         <setting id="unaired_episodes" type="bool" label="30285" default="false" />

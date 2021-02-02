@@ -2292,3 +2292,23 @@ msgstr ""
 msgctxt "#30640"
 msgid "Bitrate"
 msgstr ""
+
+msgctxt "#30641"
+msgid "Playback"
+msgstr ""
+
+msgctxt "#30642"
+msgid "Force Resume options"
+msgstr ""
+
+msgctxt "#30643"
+msgid "by Kodi"
+msgstr ""
+
+msgctxt "#30644"
+msgid "by Elementum - Ask"
+msgstr ""
+
+msgctxt "#30645"
+msgid "by Elementum - Force"
+msgstr ""
