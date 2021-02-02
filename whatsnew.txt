@@ -7,6 +7,13 @@
     - Source is open, so you can fork everything.
     - Some bug fixes or updates can come, to keep things working and have the latest versions.    
 
+[B][COLOR red]0.1.67[/COLOR][/B]
+    - Added storing fetched metadata for magnets. 
+    - Added concatenation of torrents into one entry.
+    - Added getting popular public trackers from internet and adding them to each added torrent.
+    - Modified libtorrent usage to lower requesting information from it.
+    - Reorganized Resume playback to properly treat Kodi's response to resume from position.
+
 [B][COLOR red]0.1.65-66[/COLOR][/B]
     - Added handling of Kodi region for proper certification detection.
     - Changed permissions management for lockfile on Windows to use ACL.
