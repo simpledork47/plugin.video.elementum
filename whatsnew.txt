@@ -9,6 +9,13 @@
     - Fixed issue with finding next episode items (when season was not mentioned in file name).
     - Added Anime:boolean value to search payload.
 
+[B][COLOR red]0.1.69[/COLOR][/B]
+    - Adjusted matchers for filename.
+    - Modified season images selector for FanArt.
+    - Modified Resume playback logic to ask when we think Kodi has already asked and got no response.
+    - Changed the way to add additional trackers to add them to each torrent after addition.
+    - Changed Trakt authorization methods.
+
 [B][COLOR red]0.1.68[/COLOR][/B]
     - Added 'Trakt', 'TMDB' labels to Movies/Shows index lists to distinguish sources of data.
     - Returned asking for play resume, when we think Kodi was asking (because Kodi does not ask resume for strm files).
