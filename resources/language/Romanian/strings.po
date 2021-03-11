@@ -2345,6 +2345,22 @@ msgctxt "#30652"
 msgid "Successfully deauthorized for Trakt.tv"
 msgstr ""
 
+msgctxt "#30653"
+msgid "Which files to download"
+msgstr ""
+
+msgctxt "#30654"
+msgid "Only playback file"
+msgstr ""
+
+msgctxt "#30655"
+msgid "Season files"
+msgstr ""
+
+msgctxt "#30656"
+msgid "All files"
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
 #~ msgstr "Calea pentru descărcare (nu FAT32)"

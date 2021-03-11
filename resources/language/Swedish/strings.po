@@ -2344,3 +2344,19 @@ msgstr "Kunde inte att auktorisera för Trakt.tv"
 msgctxt "#30652"
 msgid "Successfully deauthorized for Trakt.tv"
 msgstr "Avauktoriserad för Trakt.tv"
+
+msgctxt "#30653"
+msgid "Which files to download"
+msgstr ""
+
+msgctxt "#30654"
+msgid "Only playback file"
+msgstr ""
+
+msgctxt "#30655"
+msgid "Season files"
+msgstr ""
+
+msgctxt "#30656"
+msgid "All files"
+msgstr ""
