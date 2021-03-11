@@ -7,6 +7,10 @@
     - Source is open, so you can fork everything.
     - Some bug fixes or updates can come, to keep things working and have the latest versions.
 
+[B][COLOR red]0.1.70[/COLOR][/B]
+    - Fixed issue with crashing due to empty lists in Trakt. (thanks to @antonsoroko).
+    - Added option to select which files should be queued for download (File storage only).
+
 [B][COLOR red]0.1.69[/COLOR][/B]
     - Adjusted matchers for filename.
     - Modified season images selector for FanArt.
