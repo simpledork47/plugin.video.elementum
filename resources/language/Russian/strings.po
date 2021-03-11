@@ -2342,3 +2342,19 @@ msgstr "Не удалось авторизовать на Trakt.tv"
 msgctxt "#30652"
 msgid "Successfully deauthorized for Trakt.tv"
 msgstr "Успешно отменена авторизация на Trakt.tv"
+
+msgctxt "#30653"
+msgid "Which files to download"
+msgstr "Какие файлы скачивать"
+
+msgctxt "#30654"
+msgid "Only playback file"
+msgstr "Только проигрываемый файл"
+
+msgctxt "#30655"
+msgid "Season files"
+msgstr "Файлы сезона"
+
+msgctxt "#30656"
+msgid "All files"
+msgstr "Все файлы"
