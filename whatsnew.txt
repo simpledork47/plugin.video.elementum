@@ -7,6 +7,10 @@
     - Source is open, so you can fork everything.
     - Some bug fixes or updates can come, to keep things working and have the latest versions.
 
+[B][COLOR red]0.1.76[/COLOR][/B]
+    - Fixed creation of repository.elementum.
+    - Changes to information constructors for movie/show/episode.
+
 [B][COLOR red]0.1.75[/COLOR][/B]
     - Small bug fixes (thanks to @antonsoroko).
     - Reverting to previous version of Swig, trying to avoid antivirus treat as a trojan. 
