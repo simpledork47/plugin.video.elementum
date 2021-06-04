@@ -1271,7 +1271,7 @@ msgstr "Ta bort från Trakt när serie tas bort från Kodi-biblioteket"
 
 msgctxt "#30451"
 msgid "Torrent files path"
-msgstr "Torrent-filsökväg"
+msgstr "Torrentfilsökväg"
 
 msgctxt "#30452"
 msgid "Reset all paths"
@@ -1847,7 +1847,7 @@ msgstr "Cacha hämtade torrentfiler efter sökning"
 
 msgctxt "#30606"
 msgid "Show watched state for torrent's files"
-msgstr "Visa sedda-status för torrentfiler"
+msgstr "Visa sedda-tillstånd för torrentfiler"
 
 msgctxt "#30607"
 msgid "Use earliest release date as basic for searching"
