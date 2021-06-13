@@ -2080,8 +2080,16 @@ msgstr "Модифицировать трекеры в торренте"
 
 msgctxt "#30665"
 msgid "At the time of adding"
-msgstr "Во момент добавлении"
+msgstr "В момент добавления"
 
 msgctxt "#30666"
 msgid "Every time"
 msgstr "Каждый раз"
+
+msgctxt "#30667"
+msgid "Mark as watched in Trakt"
+msgstr "Отмет. просм. в Trakt"
+
+msgctxt "#30668"
+msgid "Mark as unwatched in Trakt"
+msgstr "Отмет. непросм. в Trakt"
