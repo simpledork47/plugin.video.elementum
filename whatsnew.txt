@@ -7,7 +7,7 @@
     - Source is open, so you can fork everything.
     - Some bug fixes or updates can come, to keep things working and have the latest versions.
 
-[B][COLOR red]0.1.79[/COLOR][/B]
+[B][COLOR red]0.1.79-80[/COLOR][/B]
     - Added service.lt2http to repository.elementum.
     - Changed Trakt watched management from context menu. (thanks to @antonsoroko)
     - More changes to Web UI. (thanks to @Dim0N22)
