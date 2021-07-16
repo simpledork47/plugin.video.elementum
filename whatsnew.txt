@@ -10,6 +10,7 @@
 [B][COLOR red]0.1.83[/COLOR][/B]
     - Small adjustments to Trakt Watched sync to reset resume state for already watched items.
     - Changed Seek monitoring for player startup.
+    - Added setting to delay addon launch on Kodi startup.
 
 [B][COLOR red]0.1.79-82[/COLOR][/B]
     - Added service.lt2http to repository.elementum.
