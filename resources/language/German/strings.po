@@ -2108,3 +2108,7 @@ msgstr ""
 msgctxt "#30668"
 msgid "Mark as unwatched in Trakt"
 msgstr ""
+
+msgctxt "#30669"
+msgid "Delay addon startup, seconds"
+msgstr ""

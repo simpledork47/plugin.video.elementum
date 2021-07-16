@@ -2105,3 +2105,7 @@ msgstr "Отмет. просм. в Trakt"
 msgctxt "#30668"
 msgid "Mark as unwatched in Trakt"
 msgstr "Отмет. непросм. в Trakt"
+
+msgctxt "#30669"
+msgid "Delay addon startup, seconds"
+msgstr "Отсрочка запуска дополнения, секунд"
