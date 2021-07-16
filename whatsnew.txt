@@ -7,6 +7,10 @@
     - Source is open, so you can fork everything.
     - Some bug fixes or updates can come, to keep things working and have the latest versions.
 
+[B][COLOR red]0.1.83[/COLOR][/B]
+    - Small adjustments to Trakt Watched sync to reset resume state for already watched items.
+    - Changed Seek monitoring for player startup.
+
 [B][COLOR red]0.1.79-82[/COLOR][/B]
     - Added service.lt2http to repository.elementum.
     - Changed Trakt watched management from context menu. (thanks to @antonsoroko)
