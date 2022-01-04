@@ -2109,3 +2109,7 @@ msgstr "Marcar como no visto en Trakt"
 msgctxt "#30669"
 msgid "Delay addon startup, seconds"
 msgstr ""
+
+msgctxt "#30670"
+msgid "Downloading required binary file for '%s'"
+msgstr ""

@@ -2109,3 +2109,7 @@ msgstr "Отмет. непросм. в Trakt"
 msgctxt "#30669"
 msgid "Delay addon startup, seconds"
 msgstr "Отсрочка запуска дополнения, секунд"
+
+msgctxt "#30670"
+msgid "Downloading required binary file for '%s'"
+msgstr "Скачиваем требуемый бинарный файл для '%s'"
