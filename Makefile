@@ -30,7 +30,7 @@ $(ARCHS):
 	$(MAKE) zip ARCHS=$@ ZIP_SUFFIX=$@.zip
 
 $(ZIP_FILE):
-	echo "Zipping $(ZIP_NAME)"
+	echo "Zipping $(ZIP_FILE)"
 	git archive --format zip --prefix $(NAME)/ --output $(ZIP_FILE) HEAD
 	mkdir -p $(NAME)/resources/bin
 	for arch in $(ARCHS); do \
