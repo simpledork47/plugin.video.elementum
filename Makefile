@@ -60,6 +60,7 @@ ifneq ($(EXISTS),1)
 		--description "$(VERSION)"
 endif
 
+	sleep 5
 	for arch in $(ARCHS); do \
 		github-release upload \
 			--user $(GIT_USER) \
