@@ -2147,6 +2147,14 @@ msgctxt "#30674"
 msgid "Database was compacted"
 msgstr ""
 
+msgctxt "#30675"
+msgid "Remote host login"
+msgstr ""
+
+msgctxt "#30676"
+msgid "Remote host password"
+msgstr ""
+
 #~ msgctxt "#30436"
 #~ msgid "f"
 #~ msgstr "Korisnikov popis"

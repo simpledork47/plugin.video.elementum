@@ -2129,3 +2129,11 @@ msgstr "Сжать базу данных кеша"
 msgctxt "#30674"
 msgid "Database was compacted"
 msgstr "База данных была сжата"
+
+msgctxt "#30675"
+msgid "Remote host login"
+msgstr "Удаленный хост / Логин"
+
+msgctxt "#30676"
+msgid "Remote host password"
+msgstr "Удаленный хост / Пароль"
