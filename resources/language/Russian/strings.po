@@ -2137,3 +2137,7 @@ msgstr "Удаленный хост / Логин"
 msgctxt "#30676"
 msgid "Remote host password"
 msgstr "Удаленный хост / Пароль"
+
+msgctxt "#30677"
+msgid "Force start as a library"
+msgstr "Принудительно запускать как библиотеку"
