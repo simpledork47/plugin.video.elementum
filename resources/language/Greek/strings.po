@@ -2144,3 +2144,11 @@ msgstr ""
 msgctxt "#30677"
 msgid "Force start as a library"
 msgstr ""
+
+msgctxt "#30678"
+msgid "Remove from Kodi library, when movie is deleted from Trakt"
+msgstr ""
+
+msgctxt "#30679"
+msgid "Remove from Kodi library, when show is deleted from Trakt"
+msgstr ""

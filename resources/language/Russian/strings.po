@@ -2141,3 +2141,11 @@ msgstr "Удаленный хост / Пароль"
 msgctxt "#30677"
 msgid "Force start as a library"
 msgstr "Принудительно запускать как библиотеку"
+
+msgctxt "#30678"
+msgid "Remove from Kodi library, when movie is deleted from Trakt"
+msgstr "Удалить фильм из библиотеки Kodi, при удалении из Trakt"
+
+msgctxt "#30679"
+msgid "Remove from Kodi library, when show is deleted from Trakt"
+msgstr "Удалить сериал из библиотеки Kodi, при удалении из Trakt"
