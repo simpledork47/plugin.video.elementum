@@ -2149,3 +2149,23 @@ msgstr "Удалить фильм из библиотеки Kodi, при уда�
 msgctxt "#30679"
 msgid "Remove from Kodi library, when show is deleted from Trakt"
 msgstr "Удалить сериал из библиотеки Kodi, при удалении из Trakt"
+
+msgctxt "#30680"
+msgid "Remove Elementum duplicates from library"
+msgstr "Удалить дубликаты Elementum из библиотеки"
+
+msgctxt "#30681"
+msgid "[B]Found duplicates in Kodi library:[/B][CR]Movies: [COLOR gold][B]%s[/B][/COLOR], Shows: [COLOR gold][B]%s[/B][/COLOR], Episodes: [COLOR gold][B]%s[/B][/COLOR][CR]Proceed?"
+msgstr "[B]Найдены дубликаты в библиотеке Kodi[/B][CR]Фильмы: [COLOR gold][B]%s[/B][/COLOR], Сериалы: [COLOR gold][B]%s[/B][/COLOR], Эпизоды: [COLOR gold][B]%s[/B][/COLOR][CR]Продолжить?"
+
+msgctxt "#30682"
+msgid "No duplicates were found in Kodi library"
+msgstr "Дубликаты не найдены в библиотеке Kodi"
+
+msgctxt "#30683"
+msgid "Starting library duplicates removal"
+msgstr "Начинаем удаление дубликатов в библиотеке"
+
+msgctxt "#30684"
+msgid "Removed Movies: %s, Shows: %s, Episodes: %s"
+msgstr "Удалено Фильмов: %s, Сериалов: %s, Эпизодов: %s"
