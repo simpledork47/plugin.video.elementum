@@ -7,7 +7,7 @@
     - Source is open, so you can fork everything.
     - Some bug fixes or updates can come, to keep things working and have the latest versions.
 
-[B][COLOR red]0.1.93[/COLOR][/B]
+[B][COLOR red]0.1.93-0.1.94[/COLOR][/B]
     - Replaced internally managed "repository.elementum" with a standalone "repository.elementumorg" that can download addons even if Elementum is not working.
     - Added Trakt removal sync (with settings in Trakt section), that will remove items from Kodi library, when it is removed from Trakt list.
     - Added custom action to Kodi library settings section, that will search for library duplicates and remove all duplicate items.
