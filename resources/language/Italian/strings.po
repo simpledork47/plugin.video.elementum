@@ -2169,3 +2169,15 @@ msgstr ""
 msgctxt "#30684"
 msgid "Removed Movies: %s, Shows: %s, Episodes: %s"
 msgstr ""
+
+msgctxt "#30685"
+msgid "Remove movies from Elementum database"
+msgstr ""
+
+msgctxt "#30686"
+msgid "Remove shows from Elementum database"
+msgstr ""
+
+msgctxt "#30687"
+msgid "In Elementum library"
+msgstr ""

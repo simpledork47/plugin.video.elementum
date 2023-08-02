@@ -373,8 +373,10 @@
         <!-- Database -->
         <setting label="30460" type="lsep" />
         <setting type="action" label="30461" action="RunPlugin(plugin://plugin.video.elementum/status)" />
-        <setting type="action" label="30462" action="RunPlugin(plugin://plugin.video.elementum/cmd/database/clear_movies)" />
-        <setting type="action" label="30463" action="RunPlugin(plugin://plugin.video.elementum/cmd/database/clear_shows)" />
+        <setting type="action" label="30685" action="RunPlugin(plugin://plugin.video.elementum/cmd/database/clear_movies)" />
+        <setting type="action" label="30686" action="RunPlugin(plugin://plugin.video.elementum/cmd/database/clear_shows)" />
+        <setting type="action" label="30462" action="RunPlugin(plugin://plugin.video.elementum/cmd/database/clear_deleted_movies)" />
+        <setting type="action" label="30463" action="RunPlugin(plugin://plugin.video.elementum/cmd/database/clear_deleted_shows)" />
         <setting type="action" label="30464" action="RunPlugin(plugin://plugin.video.elementum/cmd/database/clear_torrent_history)" />
         <setting type="action" label="30465" action="RunPlugin(plugin://plugin.video.elementum/cmd/database/clear_search_history)" />
         <setting type="action" label="30466" action="RunPlugin(plugin://plugin.video.elementum/cmd/database/clear_database)" />

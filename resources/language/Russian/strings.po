@@ -2169,3 +2169,15 @@ msgstr "Начинаем удаление дубликатов в библиот
 msgctxt "#30684"
 msgid "Removed Movies: %s, Shows: %s, Episodes: %s"
 msgstr "Удалено Фильмов: %s, Сериалов: %s, Эпизодов: %s"
+
+msgctxt "#30685"
+msgid "Remove movies from Elementum database"
+msgstr "Удалить фильмы из базы Elementum"
+
+msgctxt "#30686"
+msgid "Remove shows from Elementum database"
+msgstr "Удалить сериалы из базы Elementum"
+
+msgctxt "#30687"
+msgid "In Elementum library"
+msgstr "В библиотеке Elementum"
