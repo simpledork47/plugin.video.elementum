@@ -7,6 +7,12 @@
     - Source is open, so you can fork everything.
     - Some bug fixes or updates can come, to keep things working and have the latest versions.
 
+[B][COLOR red]0.1.96[/COLOR][/B]
+    - Fixed issue with running on Android platforms.
+    - Added 'In Elementum library' lists, that show items, that are updated by Elementum.
+    - Added option to yclear movies/shows database from Elementum settings.
+    - Updated list sortings to make sure 'Next page' link is always on the bottom and adding more sorting options.
+
 [B][COLOR red]0.1.95[/COLOR][/B]
     - Recommendation lists now return more entries.
     - Trakt Lists now show all entries without pagination.
