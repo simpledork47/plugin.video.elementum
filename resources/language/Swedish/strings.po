@@ -1582,8 +1582,8 @@ msgid "Stop Downloading all files"
 msgstr "Stoppa hämtning av alla filer"
 
 msgctxt "#30535"
-msgid "Continue playback from [COLOR gold][B]%s[/B][/COLOR]?"
-msgstr "Fortsätt uppspelning från [COLOR gold][B]%s[/B][/COLOR]?"
+msgid "Continue playback from [B]%s[/B]?"
+msgstr "Fortsätt uppspelning från [B]%s[/B]?"
 
 msgctxt "#30536"
 msgid "Skip IPv6 addresses resolving"
@@ -2158,7 +2158,7 @@ msgid "Remove Elementum duplicates from library"
 msgstr ""
 
 msgctxt "#30681"
-msgid "[B]Found duplicates in Kodi library:[/B][CR]Movies: [COLOR gold][B]%s[/B][/COLOR], Shows: [COLOR gold][B]%s[/B][/COLOR], Episodes: [COLOR gold][B]%s[/B][/COLOR][CR]Proceed?"
+msgid "[B]Found duplicates in Kodi library:[/B][CR]Movies: [B]%s[/B], Shows: [B]%s[/B], Episodes: [B]%s[/B][CR]Proceed?"
 msgstr ""
 
 msgctxt "#30682"

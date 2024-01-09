@@ -1588,8 +1588,8 @@ msgid "Stop Downloading all files"
 msgstr "Arrêter le téléchargement de tous les fichiers"
 
 msgctxt "#30535"
-msgid "Continue playback from [COLOR gold][B]%s[/B][/COLOR]?"
-msgstr "Continuer la lecture depuis [COLOR gold][B]%s[/B][/COLOR]?"
+msgid "Continue playback from [B]%s[/B]?"
+msgstr "Continuer la lecture depuis [B]%s[/B]?"
 
 msgctxt "#30536"
 msgid "Skip IPv6 addresses resolving"
@@ -2164,8 +2164,8 @@ msgid "Remove Elementum duplicates from library"
 msgstr "Supprimer les doublons Elementum de la librairie"
 
 msgctxt "#30681"
-msgid "[B]Found duplicates in Kodi library:[/B][CR]Movies: [COLOR gold][B]%s[/B][/COLOR], Shows: [COLOR gold][B]%s[/B][/COLOR], Episodes: [COLOR gold][B]%s[/B][/COLOR][CR]Proceed?"
-msgstr "[B]Doublons trouvés dans la librairie Kodi:[/B][CR]Films: [COLOR gold][B]%s[/B][/COLOR], Séries: [COLOR gold][B]%s[/B][/COLOR], Episodes: [COLOR gold][B]%s[/B][/COLOR][CR]Procéder?"
+msgid "[B]Found duplicates in Kodi library:[/B][CR]Movies: [B]%s[/B], Shows: [B]%s[/B], Episodes: [B]%s[/B][CR]Proceed?"
+msgstr "[B]Doublons trouvés dans la librairie Kodi:[/B][CR]Films: [B]%s[/B], Séries: [B]%s[/B], Episodes: [B]%s[/B][CR]Procéder?"
 
 msgctxt "#30682"
 msgid "No duplicates were found in Kodi library"

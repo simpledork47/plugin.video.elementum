@@ -1583,7 +1583,7 @@ msgid "Stop Downloading all files"
 msgstr ""
 
 msgctxt "#30535"
-msgid "Continue playback from [COLOR gold][B]%s[/B][/COLOR]?"
+msgid "Continue playback from [B]%s[/B]?"
 msgstr ""
 
 msgctxt "#30536"
@@ -2159,7 +2159,7 @@ msgid "Remove Elementum duplicates from library"
 msgstr ""
 
 msgctxt "#30681"
-msgid "[B]Found duplicates in Kodi library:[/B][CR]Movies: [COLOR gold][B]%s[/B][/COLOR], Shows: [COLOR gold][B]%s[/B][/COLOR], Episodes: [COLOR gold][B]%s[/B][/COLOR][CR]Proceed?"
+msgid "[B]Found duplicates in Kodi library:[/B][CR]Movies: [B]%s[/B], Shows: [B]%s[/B], Episodes: [B]%s[/B][CR]Proceed?"
 msgstr ""
 
 msgctxt "#30682"
