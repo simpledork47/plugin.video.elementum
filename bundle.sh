@@ -107,10 +107,15 @@ if [[ -f "${ZIPPATH}" ]]; then
     rm ${ZIPPATH}
 fi
 
+echo "## Cleaning up existing ${PWD}/resources/bin/ folder"
+rm -rf ${PWD}/resources/bin/*
+
+echo "## Adding plugin.video.elementum files into ${ZIPPATH}"
 (cd .. && zip -r ${ZIPPATH} ${ADDON} "${ZIPIGNORE[@]}" -x "${ADDON}/resources/bin/*" )
+
 if [ -z "${PLATFORM}" ]; then
-    echo "## Copying binaries from ${BINARIES} to ${PWD}/resources/bin/"
-    cp -rf ${BINARIES} ${PWD}/resources/bin/
+    echo "## Copying binaries from ${BINARIES}/* to ${PWD}/resources/bin/"
+    cp -rf ${BINARIES}/* ${PWD}/resources/bin/
 
     version_update
 
