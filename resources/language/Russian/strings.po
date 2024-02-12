@@ -1448,7 +1448,7 @@ msgstr "Использовать fanart.tv для постеров/картин�
 
 msgctxt "#30492"
 msgid "Use Proxy for downloading .torrent files"
-msgstr "Использовать прокси для скачивания .torrent файлов"
+msgstr "Использовать прокси для качивания .torrent файлов"
 
 msgctxt "#30493"
 msgid "Use Proxy for trackers"
@@ -2193,3 +2193,11 @@ msgstr "В библиотеке Elementum"
 msgctxt "#30688"
 msgid "Skip searching for installed Elementum repository"
 msgstr "Не спрашивать установку репозитория Elementum"
+
+msgctxt "#30689"
+msgid "Internal DNS client"
+msgstr "Встроенный DNS клиент"
+
+msgctxt "#30690"
+msgid "Order of DNS-over-HTTPS services to use"
+msgstr "Порядок использования сервисов DNS-over-HTTPS"

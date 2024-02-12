@@ -2202,3 +2202,11 @@ msgstr "Dans la librairie Elementum"
 msgctxt "#30688"
 msgid "Skip searching for installed Elementum repository"
 msgstr ""
+
+msgctxt "#30689"
+msgid "Internal DNS client"
+msgstr ""
+
+msgctxt "#30690"
+msgid "Order of DNS-over-HTTPS services to use"
+msgstr ""
