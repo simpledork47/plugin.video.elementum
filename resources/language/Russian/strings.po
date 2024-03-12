@@ -2221,3 +2221,11 @@ msgstr "Среднее"
 msgctxt "#30696"
 msgid "Low"
 msgstr "Низкое"
+
+msgctxt "#30697"
+msgid "Interface language"
+msgstr "Язык интерфейса"
+
+msgctxt "#30698"
+msgid "Kodi language"
+msgstr "Язык Kodi"
