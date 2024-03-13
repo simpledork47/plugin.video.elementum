@@ -280,6 +280,7 @@
         <setting label="30424" type="lsep" />
         <setting id="trakt_progress_sort" type="enum" label="30429" lvalues="30430|30431|30432|30433" default="0" />
         <setting id="trakt_progress_hide_unaired" type="bool" label="30428" default="true" />
+        <setting id="trakt_use_lowest_release_date" type="bool" label="30699" default="true" />
         <setting id="trakt_progress_color_date" label="30425" type="text" default="yellow" />
         <setting id="trakt_progress_color_show" label="30426" type="text" default="none" />
         <setting id="trakt_progress_color_episode" label="30427" type="text" default="skyblue" />
@@ -299,7 +300,7 @@
     <category label="30239">
         <!-- Searching -->
         <setting label="30478" type="lsep" />
-        <setting id="use_lowest_release_date" type="bool" label="30607" default="true" />
+        <setting id="provider_use_lowest_release_date" type="bool" label="30607" default="true" />
 
         <setting label="30522" type="lsep" />
         <setting id="min_candidate_size" label="30523" type="slider" option="int" range="0,1,1000" default="100" />

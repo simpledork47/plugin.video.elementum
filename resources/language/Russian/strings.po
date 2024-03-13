@@ -1864,7 +1864,7 @@ msgstr "Показывать статус просмотренного для ф
 
 msgctxt "#30607"
 msgid "Use earliest release date as basic for searching"
-msgstr "Использовать раннюю дату выпуска как базовую для поиска"
+msgstr "Использовать самую раннюю дату выпуска как базовую для поиска"
 
 msgctxt "#30608"
 msgid "Match found in your active torrents, play it?[CR]%s"
@@ -2229,3 +2229,7 @@ msgstr "Язык интерфейса"
 msgctxt "#30698"
 msgid "Kodi language"
 msgstr "Язык Kodi"
+
+msgctxt "#30699"
+msgid "Use earliest release date for progress and calendars"
+msgstr "Использовать самую раннюю дату выпуска для прогресса и календарей"
