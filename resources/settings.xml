@@ -120,6 +120,8 @@
         <setting label="30033" type="lsep" />
         <setting id="language" label="30697" type="text" default="" />
             <setting type="action" label="30476" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_language)" subsetting="true" />
+        <setting id="second_language" label="30700" type="text" default="" />
+            <setting type="action" label="30476" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_second_language)" subsetting="true" />
 
         <setting id="do_not_disturb" label="30093" type="bool" default="false" />
         <setting id="enable_overlay_status" type="bool" label="30022" default="true" />

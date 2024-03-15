@@ -2237,3 +2237,11 @@ msgstr ""
 msgctxt "#30699"
 msgid "Use earliest release date for progress and calendars"
 msgstr ""
+
+msgctxt "#30700"
+msgid "Interface fallback language"
+msgstr ""
+
+msgctxt "#30701"
+msgid "English | en"
+msgstr ""

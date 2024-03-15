@@ -2233,3 +2233,11 @@ msgstr "Язык Kodi"
 msgctxt "#30699"
 msgid "Use earliest release date for progress and calendars"
 msgstr "Использовать самую раннюю дату выпуска для прогресса и календарей"
+
+msgctxt "#30700"
+msgid "Interface fallback language"
+msgstr "Вспомогательный язык интерфейса"
+
+msgctxt "#30701"
+msgid "English | en"
+msgstr "Английский | en"
