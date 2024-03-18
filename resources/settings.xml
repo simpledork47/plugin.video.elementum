@@ -108,8 +108,7 @@
         <setting id="show_episodes_on_release_day" type="bool" label="30663" default="false" />
         <setting id="playback_percent" label="30416" type="slider" option="int" range="1,1,100" default="85" />
         <setting id="library_update" type="enum" label="30480" lvalues="30481|30482|30414" default="0" />
-        <setting id="strm_language" label="30475" type="text" default="Original" />
-            <setting type="action" label="30476" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_strm_language)" subsetting="true" />
+        <setting id="strm_language" label="30475" type="action" default="Original" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_strm_language)" />
         <setting id="library_nfo_movies" type="bool" label="30483" default="true" />
         <setting id="library_nfo_shows" type="bool" label="30484" default="true" />
     </category>
@@ -118,10 +117,8 @@
     <category label="30033">
         <!-- Appearance -->
         <setting label="30033" type="lsep" />
-        <setting id="language" label="30697" type="text" default="" />
-            <setting type="action" label="30476" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_language)" subsetting="true" />
-        <setting id="second_language" label="30700" type="text" default="" />
-            <setting type="action" label="30476" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_second_language)" subsetting="true" />
+        <setting id="language" label="30697" type="action" default="" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_language)" />
+        <setting id="second_language" label="30700" type="action" default="" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_second_language)" />
 
         <setting id="do_not_disturb" label="30093" type="bool" default="false" />
         <setting id="enable_overlay_status" type="bool" label="30022" default="true" />
