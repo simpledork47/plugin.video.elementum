@@ -7,6 +7,18 @@
     - Source is open, so you can fork everything.
     - Some bug fixes or updates can come, to keep things working and have the latest versions.
 
+[B][COLOR red]0.1.100[/COLOR][/B]
+    - Many changes around caching and parsing speed to make browsing faster.
+    - Changed default 'gold' color to 'bold' to show properly on light backgrounds. (Thanks to @vasilky3)
+    - Removed auto-scrape functionality to avoid bombing websites with search queries.
+    - Fixed listing TMDB countries/languages.
+    - Added config setting to avodi installing Elementum standalone repository.
+    - Added config setting for order of public DNS-over-HTTPS services.
+    - Many changes around Trakt lists rendering and Arts selection in general. (Thanks to @antonsoroko, @matke-84)
+    - Added config settings for Second Language to be used if Primary language translation is not available.
+    - Replaced Opensubtitles.org with Opensubtitles.com API.
+    - Thanks to @antonsoroko, @vasilky3, @matke-84, @GladistonXD and other people (sorry for not mentioning you, ping me to fix this) who took part in reporting issues, testing, development!
+
 [B][COLOR red]0.1.99[/COLOR][/B]
     - Fixed libtorrent peer fingerprints.
     - Fixed issue with auto-selecting wrong episode file from season torrent.
