@@ -2241,3 +2241,7 @@ msgstr ""
 msgctxt "#30701"
 msgid "English | en"
 msgstr ""
+
+msgctxt "#30702"
+msgid "Exceeded daily allowed subtitles downloads"
+msgstr ""

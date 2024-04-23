@@ -2237,3 +2237,7 @@ msgstr "Вспомогательный язык интерфейса"
 msgctxt "#30701"
 msgid "English | en"
 msgstr "Английский | en"
+
+msgctxt "#30702"
+msgid "Exceeded daily allowed subtitles downloads"
+msgstr "Достигнуто максимальное дневное количество скачиваний субтитров"
