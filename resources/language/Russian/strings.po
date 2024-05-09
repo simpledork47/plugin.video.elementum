@@ -2245,3 +2245,11 @@ msgstr "Достигнут дневной лимит на загрузку су�
 msgctxt "#30703"
 msgid "Can be used by search providers or for debugging"
 msgstr "Может исп. поисковыми провайдерами или для отладки"
+
+msgctxt "#30704"
+msgid "TMDB API Key check failed, cannot use TMDB service"
+msgstr "Не удалось проверить ключ API TMDB, невозможно использование сервиса TMDB"
+
+msgctxt "#30705"
+msgid "TMDB API accessibility check failed, cannot use TMDB service"
+msgstr "Не удалось проверить доступность API TMDB, невозможно использование сервиса TMDB"
