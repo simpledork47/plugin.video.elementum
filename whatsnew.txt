@@ -14,6 +14,7 @@
     - Prefer Romaji titles for anime. Add Credits to TMDB Season. Set Trailer in all TMDB video types. Don't overwrite OriginalLanguage title with AlternativeTitles.
     - Update BitTorrent peer IDs and user agents.
     - Add BitTorrent ports to status page.
+    - Fixed issue with not updating local strm library when Trakt sync is disabled. Thanks to @AndroG77, @susobaco, @antonsoroko.
 
 [B][COLOR red]0.1.103[/COLOR][/B]
     - Python 3.12 compatibility
