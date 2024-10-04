@@ -15,6 +15,7 @@
     - Update BitTorrent peer IDs and user agents.
     - Add BitTorrent ports to status page.
     - Fixed issue with not updating local strm library when Trakt sync is disabled. Thanks to @AndroG77, @susobaco, @antonsoroko.
+    - Added functionality to detect if Kodi is running in a remote mode (when Kodi library is not empty, but Kodi has no local sources, meaning Kodi it managed on some other Kodi instance). In this case Elementum will disable local library updates and Trakt sync, and that should only run on master device/Kodi.
 
 [B][COLOR red]0.1.103[/COLOR][/B]
     - Python 3.12 compatibility
